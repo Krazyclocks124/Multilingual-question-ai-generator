@@ -27,5 +27,5 @@ Inquisitive is an app that uses advanced AI to read user text and automatically 
 2. **Generated Questions in Spanish**
 ![](/Screenshots/screenshot3.png)
 
-3. **Generated Questions in English**
+3. **Generated Questions in French**
 ![](/Screenshots/screenshot4.png)
