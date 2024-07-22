@@ -15,7 +15,7 @@ Inquisitive is an app that uses advanced AI to read user text and automatically 
 - **Memory**: Minimum 4 GB of RAM.
 - **Storage**: At least 2 GB of available disk space.
 
-#### [Project Application Video Showcase](https://drive.google.com/drive/folders/1eV_9jq5eOEmNkAKmbNIVi5FurIAbeDW7?usp=sharing)
+#### [Click here to view Project Application Video Showcase](https://drive.google.com/drive/folders/1eV_9jq5eOEmNkAKmbNIVi5FurIAbeDW7?usp=sharing)
 
 #### Project Screenshots
 
